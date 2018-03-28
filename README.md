@@ -1,2 +1,2 @@
-# KnowledgeAndSkill
-A conllection of my knowledge and skill on software development
+# Quick Reference
+A conllection of online documents on software development.
